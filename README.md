@@ -1,65 +1,47 @@
-<h2 align="left">Hi 👋! My name is Raiiynn!! Welcome to My Profile</h2>
+<h1 align="center"><samp>welcome to my page!</samp></h1>
 
-###
+```sh
+~/Raiiynn: fetch.sh
+```
+
+<img align="left" src="./assets/raiiynn-avatar.png" width="411.5" alt="Raiiynn's anime avatar" />
+
+```haskell
+Raiiynn@github
+------------------------------
+os        • windows 11 ltsc 24h2
+term      • wezterm
+shell     • pwsh 7.6.1
+wms       • glazewm 3.10.1
+
+pronouns  • he/him
+name      • Raiiynn
+role      • Software Engineer & Cybersecurity Enthusiast
+status    • intern, open to collaborate & freelance
+
+address   • Yogyakarta, Indonesia
+website   • raiiynn.dev
+
+skills    • typescript, javascript, php, html, css,
+            python, c#, java, next.js, react, laravel, tailwindcss
+tools     • git, github, docker, linux
+learning  • kotlin, solidity
+
+find me   • github.com/Raiiynn
+
+repos     • — (contributed: —)
+commits   • —
+issues    • —
+stars     • —
+```
+
+<br clear="both" />
+<hr />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raiiynn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Raiiynn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raiiynn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  [![Website Badge](https://img.shields.io/badge/website-8B88C8?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://raiiynn.dev/)
+  [![GitHub Badge](https://img.shields.io/badge/github-7289DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raiiynn)
+  [![Repositories Badge](https://img.shields.io/badge/repositories-E4547D?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Raiiynn?tab=repositories)
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgur.com/2jVgEJJ.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/raihndff._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="daffaraihan72@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/daffaraihanramadhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Raiiynn/Raiiynn/output/snake.svg" alt="Snake animation" />
-
-###
