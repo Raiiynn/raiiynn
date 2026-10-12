@@ -4,7 +4,7 @@
 ~/Raiiynn: fetch.sh
 ```
 
-<img align="left" src="./assets/raiiynn-avatar.png" width="411.5" alt="Raiiynn's anime avatar" />
+<img align="left" src="./assets/avatar2.jpg" width="411.5" alt="Raiiynn's anime avatar" />
 
 ```haskell
 Raiiynn@github
@@ -23,7 +23,8 @@ address   • Yogyakarta, Indonesia
 website   • raiiynn.dev
 
 skills    • typescript, javascript, php, html, css,
-            python, c#, java, next.js, react, laravel, tailwindcss
+            python, c#, java, next.js, react, laravel,
+            tailwindcss
 tools     • git, github, docker, linux
 learning  • kotlin, solidity
 
