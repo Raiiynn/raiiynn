@@ -4,7 +4,7 @@
 ~/Raiiynn: fetch.sh
 ```
 
-<img align="left" src="./assets/avatar.jpg" width="411.5" alt="Raiiynn's anime avatar" />
+<img align="left" src="./assets/avatar.jpg" height="464" alt="Raiiynn's anime avatar" />
 
 ```haskell
 Raiiynn@github
@@ -15,10 +15,10 @@ shell     • pwsh 7.6.1
 wms       • glazewm 3.10.1
 
 pronouns  • he/him
-name      • Raiiynn
+address   • Yogyakarta, Indonesia
 role      • Software Engineer & Cybersecurity Enthusiast
 status    • intern, open to collaborate & freelance
-address   • Yogyakarta, Indonesia
+hobbies   • gaming, code, reading
 
 skills    • typescript, javascript, php, html, css,
             python, c#, java, next.js, react, laravel,
