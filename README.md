@@ -28,9 +28,9 @@ learning  • solidity, nestjs, vue.js
 
 find me   • github.com/Raiiynn
 
-repos     • 38 (contributed: 2)
-commits   • 283
-issues    • 5
+repos     • 37 (contributed: 2)
+commits   • 0
+issues    • 0
 stars     • 1
 ```
 
